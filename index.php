@@ -15,7 +15,6 @@
         <a href="#">Home</a>
         <a href="#">Producten</a>
         <a href="#">Contact</a>
-        <a href="#">Login</a>
     </nav>
 </header>
 <section>
